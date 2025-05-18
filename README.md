@@ -1,4 +1,2 @@
-# CodeSprint-2.0-by-USC-KIIT
-Solutions to all problems from Day 1 to Day 45 of CodeSprint USC KIIT.
-<br>
-hey!!
+# 🚀 CodeSprint2.0 by USC KIIT – Complete Solutions (Day 1 to Day 45)
+Welcome to the CodeSprint USC KIIT repository!<br>This repo is a comprehensive collection of all problem solutions from the 45-day CodeSprint challenge organized by @USC.KIIT!
